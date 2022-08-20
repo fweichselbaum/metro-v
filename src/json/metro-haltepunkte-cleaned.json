@@ -1,0 +1,761 @@
+[
+  {
+    "StopIDs": [4101, 4128],
+    "DIVA": 60201095,
+    "StopText": "Reumannplatz",
+    "Longitude": 16.3777669,
+    "Latitude": 48.1754633
+  },
+  {
+    "StopIDs": [4102, 4127],
+    "DIVA": 60200627,
+    "StopText": "Kagran",
+    "Longitude": 16.4331511,
+    "Latitude": 48.2432811
+  },
+  {
+    "StopIDs": [4103, 4126],
+    "DIVA": 60200666,
+    "StopText": "Keplerplatz",
+    "Longitude": 16.3759802,
+    "Latitude": 48.1798572
+  },
+  {
+    "StopIDs": [4104, 4125],
+    "DIVA": 60200031,
+    "StopText": "Alte Donau",
+    "Longitude": 16.4245899,
+    "Latitude": 48.238208
+  },
+  {
+    "StopIDs": [4105, 4124],
+    "DIVA": 60201349,
+    "StopText": "Südtiroler Platz",
+    "Longitude": 16.3734108,
+    "Latitude": 48.1876127
+  },
+  {
+    "StopIDs": [4106, 4123],
+    "DIVA": 60200641,
+    "StopText": "Kaisermühlen, V.I.C.",
+    "Longitude": 16.416263,
+    "Latitude": 48.2327988
+  },
+  {
+    "StopIDs": [4107, 4122],
+    "DIVA": 60201366,
+    "StopText": "Taubstummengasse",
+    "Longitude": 16.3704038,
+    "Latitude": 48.1938
+  },
+  {
+    "StopIDs": [4108, 4121],
+    "DIVA": 60200234,
+    "StopText": "Donauinsel",
+    "Longitude": 16.4112861,
+    "Latitude": 48.2292561
+  },
+  {
+    "StopIDs": [4109, 4120, 4202, 4213, 4416, 4421],
+    "DIVA": 60200657,
+    "StopText": "Karlsplatz",
+    "Longitude": 16.368903,
+    "Latitude": 48.2012488,
+    "CustomMarker": "U1_U2_U4"
+  },
+  {
+    "StopIDs": [4110, 4119],
+    "DIVA": 60201433,
+    "StopText": "Vorgartenstraße",
+    "Longitude": 16.4011438,
+    "Latitude": 48.2237088
+  },
+  {
+    "StopIDs": [4111, 4118, 4906, 4911],
+    "DIVA": 60201320,
+    "StopText": "Stephansplatz",
+    "Longitude": 16.3716611,
+    "Latitude": 48.2080619
+  },
+  {
+    "StopIDs": [4112, 4117, 4260, 4263],
+    "DIVA": 60201040,
+    "StopText": "Praterstern",
+    "Longitude": 16.3915769,
+    "Latitude": 48.2191061
+  },
+  {
+    "StopIDs": [4113, 4116, 4410, 4427],
+    "DIVA": 60201198,
+    "StopText": "Schwedenplatz",
+    "Longitude": 16.378093,
+    "Latitude": 48.2118811
+  },
+  {
+    "StopIDs": [4114, 4115],
+    "DIVA": 60200916,
+    "StopText": "Nestroyplatz",
+    "Longitude": 16.3854861,
+    "Latitude": 48.2153169
+  },
+  {
+    "StopIDs": [4129, 4138],
+    "DIVA": 60201573,
+    "StopText": "Troststraße",
+    "Longitude": 16.3804738,
+    "Latitude": 48.168445
+  },
+  {
+    "StopIDs": [4130, 4137],
+    "DIVA": 60200033,
+    "StopText": "Altes Landgut",
+    "Longitude": 16.38351,
+    "Latitude": 48.1617819
+  },
+  {
+    "StopIDs": [4131, 4136],
+    "DIVA": 60200014,
+    "StopText": "Alaudagasse",
+    "Longitude": 16.3823061,
+    "Latitude": 48.153693
+  },
+  {
+    "StopIDs": [4132, 4135],
+    "DIVA": 60201481,
+    "StopText": "Neulaa",
+    "Longitude": 16.3861238,
+    "Latitude": 48.145805
+  },
+  {
+    "StopIDs": [4133, 4134],
+    "DIVA": 60200949,
+    "StopText": "Oberlaa",
+    "Longitude": 16.400255,
+    "Latitude": 48.1421611
+  },
+  {
+    "StopIDs": [4181, 4186],
+    "DIVA": 60200633,
+    "StopText": "Kagraner Platz",
+    "Longitude": 16.443455,
+    "Latitude": 48.2504
+  },
+  {
+    "StopIDs": [4182, 4187],
+    "DIVA": 60201860,
+    "StopText": "Rennbahnweg",
+    "Longitude": 16.449635,
+    "Latitude": 48.2575588
+  },
+  {
+    "StopIDs": [4183, 4188],
+    "DIVA": 60201858,
+    "StopText": "Aderklaaer Straße",
+    "Longitude": 16.4516649,
+    "Latitude": 48.263408
+  },
+  {
+    "StopIDs": [4184, 4189],
+    "DIVA": 60201859,
+    "StopText": "Großfeldsiedlung",
+    "Longitude": 16.4479638,
+    "Latitude": 48.271038
+  },
+  {
+    "StopIDs": [4185, 4190],
+    "DIVA": 60200769,
+    "StopText": "Leopoldau",
+    "Longitude": 16.4518088,
+    "Latitude": 48.2775019
+  },
+  {
+    "StopIDs": [4201, 4214, 4408, 4429],
+    "DIVA": 60201182,
+    "StopText": "Schottenring",
+    "Longitude": 16.3712569,
+    "Latitude": 48.217135
+  },
+  {
+    "StopIDs": [4203, 4212],
+    "DIVA": 60201184,
+    "StopText": "Schottentor",
+    "Longitude": 16.3628399,
+    "Latitude": 48.21509
+  },
+  {
+    "StopIDs": [4204, 4211],
+    "DIVA": 60200835,
+    "StopText": "Museumsquartier",
+    "Longitude": 16.3610611,
+    "Latitude": 48.202913
+  },
+  {
+    "StopIDs": [4205, 4210],
+    "DIVA": 60201072,
+    "StopText": "Rathaus",
+    "Longitude": 16.3555188,
+    "Latitude": 48.2107438
+  },
+  {
+    "StopIDs": [4206, 4209, 4908, 4909],
+    "DIVA": 60201430,
+    "StopText": "Volkstheater",
+    "Longitude": 16.358088,
+    "Latitude": 48.2051161
+  },
+  {
+    "StopIDs": [4251, 4272],
+    "DIVA": 60200299,
+    "StopText": "Aspernstraße",
+    "Longitude": 16.474788,
+    "Latitude": 48.222625
+  },
+  {
+    "StopIDs": [4252, 4271],
+    "DIVA": 60201278,
+    "StopText": "Donauspital",
+    "Longitude": 16.4656338,
+    "Latitude": 48.219603
+  },
+  {
+    "StopIDs": [4253, 4270],
+    "DIVA": 60200473,
+    "StopText": "Hardeggasse",
+    "Longitude": 16.4571988,
+    "Latitude": 48.221075
+  },
+  {
+    "StopIDs": [4254, 4269],
+    "DIVA": 60201299,
+    "StopText": "Stadlau",
+    "Longitude": 16.4489969,
+    "Latitude": 48.2196569
+  },
+  {
+    "StopIDs": [4255, 4268],
+    "DIVA": 60200282,
+    "StopText": "Donaumarina",
+    "Longitude": 16.4312111,
+    "Latitude": 48.20632
+  },
+  {
+    "StopIDs": [4256, 4267],
+    "DIVA": 60200290,
+    "StopText": "Donaustadtbrücke",
+    "Longitude": 16.439915,
+    "Latitude": 48.211708
+  },
+  {
+    "StopIDs": [4257, 4266],
+    "DIVA": 60201894,
+    "StopText": "Stadion",
+    "Longitude": 16.4202869,
+    "Latitude": 48.210888
+  },
+  {
+    "StopIDs": [4258, 4265],
+    "DIVA": 60201893,
+    "StopText": "Krieau",
+    "Longitude": 16.413855,
+    "Latitude": 48.2147788
+  },
+  {
+    "StopIDs": [4259, 4264],
+    "DIVA": 60201892,
+    "StopText": "Messe",
+    "Longitude": 16.4050069,
+    "Latitude": 48.217795
+  },
+  {
+    "StopIDs": [4261, 4262],
+    "DIVA": 60201891,
+    "StopText": "Taborstraße",
+    "Longitude": 16.3814511,
+    "Latitude": 48.2191969
+  },
+  {
+    "StopIDs": [4274, 4279],
+    "DIVA": 60200487,
+    "StopText": "Hausfeldstraße",
+    "Longitude": 16.4856838,
+    "Latitude": 48.2334088
+  },
+  {
+    "StopIDs": [4275, 4278],
+    "DIVA": 60200910,
+    "StopText": "Aspern Nord",
+    "Longitude": 16.504738,
+    "Latitude": 48.2345338
+  },
+  {
+    "StopIDs": [4276, 4277],
+    "DIVA": 60200942,
+    "StopText": "Seestadt",
+    "Longitude": 16.5083311,
+    "Latitude": 48.2261261
+  },
+  {
+    "StopIDs": [4401, 4436],
+    "DIVA": 60200560,
+    "StopText": "Hütteldorf",
+    "Longitude": 16.2607188,
+    "Latitude": 48.1969438
+  },
+  {
+    "StopIDs": [4402, 4435],
+    "DIVA": 60200491,
+    "StopText": "Heiligenstadt",
+    "Longitude": 16.3657499,
+    "Latitude": 48.248528
+  },
+  {
+    "StopIDs": [4403, 4434],
+    "DIVA": 60200956,
+    "StopText": "Ober St. Veit",
+    "Longitude": 16.2760719,
+    "Latitude": 48.192213
+  },
+  {
+    "StopIDs": [4404, 4433],
+    "DIVA": 60200357,
+    "StopText": "Friedensbrücke",
+    "Longitude": 16.3642861,
+    "Latitude": 48.2275269
+  },
+  {
+    "StopIDs": [4405, 4432],
+    "DIVA": 60201404,
+    "StopText": "Unter St. Veit",
+    "Longitude": 16.2862319,
+    "Latitude": 48.1910569
+  },
+  {
+    "StopIDs": [4406, 4431],
+    "DIVA": 60201124,
+    "StopText": "Roßauer Lände",
+    "Longitude": 16.3675288,
+    "Latitude": 48.2223438
+  },
+  {
+    "StopIDs": [4407, 4430],
+    "DIVA": 60200161,
+    "StopText": "Braunschweiggasse",
+    "Longitude": 16.2958169,
+    "Latitude": 48.18935
+  },
+  {
+    "StopIDs": [4409, 4428],
+    "DIVA": 60200520,
+    "StopText": "Hietzing",
+    "Longitude": 16.3048088,
+    "Latitude": 48.187518
+  },
+  {
+    "StopIDs": [4411, 4426],
+    "DIVA": 60201211,
+    "StopText": "Schönbrunn",
+    "Longitude": 16.3188761,
+    "Latitude": 48.1860261
+  },
+  {
+    "StopIDs": [4412, 4425, 4904, 4913],
+    "DIVA": 60200743,
+    "StopText": "Landstraße",
+    "Longitude": 16.3848038,
+    "Latitude": 48.206913
+  },
+  {
+    "StopIDs": [4413, 4424],
+    "DIVA": 60200863,
+    "StopText": "Meidling Hauptstraße",
+    "Longitude": 16.32785,
+    "Latitude": 48.183613
+  },
+  {
+    "StopIDs": [4414, 4423],
+    "DIVA": 60201305,
+    "StopText": "Stadtpark",
+    "Longitude": 16.379638,
+    "Latitude": 48.2028769
+  },
+  {
+    "StopIDs": [4415, 4422],
+    "DIVA": 60200827,
+    "StopText": "Margaretengürtel",
+    "Longitude": 16.3430588,
+    "Latitude": 48.1884638
+  },
+  {
+    "StopIDs": [4417, 4420],
+    "DIVA": 60201018,
+    "StopText": "Pilgramgasse",
+    "Longitude": 16.3543419,
+    "Latitude": 48.1921469
+  },
+  {
+    "StopIDs": [4418, 4419],
+    "DIVA": 60200670,
+    "StopText": "Kettenbrückengasse",
+    "Longitude": 16.3580788,
+    "Latitude": 48.1966619
+  },
+  {
+    "StopIDs": [4437, 4438, 4612, 4617],
+    "DIVA": 60200820,
+    "StopText": "Längenfeldgasse",
+    "Longitude": 16.335028,
+    "Latitude": 48.1848288,
+    "CustomMarker": "U4_U6"
+  },
+  {
+    "StopIDs": [4439, 4440, 4627, 4651],
+    "DIVA": 60201062,
+    "StopText": "Spittelau",
+    "Longitude": 16.3586,
+    "Latitude": 48.234863,
+    "CustomMarker": "U4_U6"
+  },
+  {
+    "StopIDs": [4603, 4626],
+    "DIVA": 60200950,
+    "StopText": "Nußdorfer Straße",
+    "Longitude": 16.352348,
+    "Latitude": 48.231333
+  },
+  {
+    "StopIDs": [4604, 4625],
+    "DIVA": 60201510,
+    "StopText": "Währinger Straße - Volksoper",
+    "Longitude": 16.3494911,
+    "Latitude": 48.225678
+  },
+  {
+    "StopIDs": [4605, 4624],
+    "DIVA": 60200874,
+    "StopText": "Michelbeuern - AKH",
+    "Longitude": 16.34429,
+    "Latitude": 48.221315
+  },
+  {
+    "StopIDs": [4606, 4623],
+    "DIVA": 60200027,
+    "StopText": "Alser Straße",
+    "Longitude": 16.3417561,
+    "Latitude": 48.216838
+  },
+  {
+    "StopIDs": [4607, 4622],
+    "DIVA": 60200615,
+    "StopText": "Josefstädter Straße",
+    "Longitude": 16.3391419,
+    "Latitude": 48.21169
+  },
+  {
+    "StopIDs": [4608, 4621],
+    "DIVA": 60201372,
+    "StopText": "Thaliastraße",
+    "Longitude": 16.3378761,
+    "Latitude": 48.2076788
+  },
+  {
+    "StopIDs": [4609, 4620],
+    "DIVA": 60200188,
+    "StopText": "Burggasse - Stadthalle",
+    "Longitude": 16.3372738,
+    "Latitude": 48.20329
+  },
+  {
+    "StopIDs": [4610, 4619, 4920, 4921],
+    "DIVA": 60201468,
+    "StopText": "Westbahnhof",
+    "Longitude": 16.3391061,
+    "Latitude": 48.1969261
+  },
+  {
+    "StopIDs": [4611, 4618],
+    "DIVA": 60200436,
+    "StopText": "Gumpendorfer Straße",
+    "Longitude": 16.3375338,
+    "Latitude": 48.19083
+  },
+  {
+    "StopIDs": [4613, 4616],
+    "DIVA": 60200937,
+    "StopText": "Niederhofstraße",
+    "Longitude": 16.3311288,
+    "Latitude": 48.1808161
+  },
+  {
+    "StopIDs": [4614, 4615],
+    "DIVA": 60201015,
+    "StopText": "Philadelphiabrücke",
+    "Longitude": 16.3313538,
+    "Latitude": 48.1735138
+  },
+  {
+    "StopIDs": [4629, 4640],
+    "DIVA": 60201394,
+    "StopText": "Tscherttegasse",
+    "Longitude": 16.32759,
+    "Latitude": 48.164718
+  },
+  {
+    "StopIDs": [4630, 4639],
+    "DIVA": 60200048,
+    "StopText": "Schöpfwerk",
+    "Longitude": 16.324428,
+    "Latitude": 48.1610569
+  },
+  {
+    "StopIDs": [4631, 4638],
+    "DIVA": 60201499,
+    "StopText": "Alterlaa",
+    "Longitude": 16.31681,
+    "Latitude": 48.15072
+  },
+  {
+    "StopIDs": [4632, 4637],
+    "DIVA": 60200285,
+    "StopText": "Erlaaer Straße",
+    "Longitude": 16.3164961,
+    "Latitude": 48.1422988
+  },
+  {
+    "StopIDs": [4633, 4636],
+    "DIVA": 60201007,
+    "StopText": "Perfektastraße",
+    "Longitude": 16.31345,
+    "Latitude": 48.1369688
+  },
+  {
+    "StopIDs": [4634, 4635],
+    "DIVA": 60201235,
+    "StopText": "Siebenhirten",
+    "Longitude": 16.309758,
+    "Latitude": 48.1303988
+  },
+  {
+    "StopIDs": [4641, 4650],
+    "DIVA": 60201667,
+    "StopText": "Jägerstraße",
+    "Longitude": 16.3686969,
+    "Latitude": 48.2351861
+  },
+  {
+    "StopIDs": [4642, 4649],
+    "DIVA": 60200500,
+    "StopText": "Dresdner Straße",
+    "Longitude": 16.380088,
+    "Latitude": 48.237215
+  },
+  {
+    "StopIDs": [4643, 4648],
+    "DIVA": 60201705,
+    "StopText": "Handelskai",
+    "Longitude": 16.3857019,
+    "Latitude": 48.2418269
+  },
+  {
+    "StopIDs": [4644, 4647],
+    "DIVA": 60200455,
+    "StopText": "Neue Donau",
+    "Longitude": 16.39482,
+    "Latitude": 48.246398
+  },
+  {
+    "StopIDs": [4645, 4646],
+    "DIVA": 60200334,
+    "StopText": "Floridsdorf",
+    "Longitude": 16.400515,
+    "Latitude": 48.2561899
+  },
+  {
+    "StopIDs": [4732, 4733],
+    "DIVA": 60201522,
+    "StopText": "Zentralfriedhof 3.Tor",
+    "Longitude": 16.4486097,
+    "Latitude": 48.1526825
+  },
+  {
+    "StopIDs": [4734, 4735],
+    "DIVA": 60201525,
+    "StopText": "Simmeringer Hauptstraße",
+    "Longitude": 16.456523,
+    "Latitude": 48.1502622
+  },
+  {
+    "StopIDs": [4802, 4811],
+    "DIVA": 60202924,
+    "StopText": "Raxstraße, Betriebsgarage",
+    "Longitude": 16.3670388,
+    "Latitude": 48.1632519
+  },
+  {
+    "StopIDs": [4804, 4810],
+    "DIVA": 60201058,
+    "StopText": "Quellenplatz",
+    "Longitude": 16.3735727,
+    "Latitude": 48.1753311
+  },
+  {
+    "StopIDs": [4805, 4809],
+    "DIVA": 60200136,
+    "StopText": "Laxenburger Straße / Gudrunstraße",
+    "Longitude": 16.3739252,
+    "Latitude": 48.1789247
+  },
+  {
+    "StopIDs": [4807, 4808],
+    "DIVA": 60201349,
+    "StopText": "Hauptbahnhof S U",
+    "Longitude": 16.373663,
+    "Latitude": 48.1852738
+  },
+  {
+    "StopIDs": [4816, 4817],
+    "DIVA": 60201889,
+    "StopText": "Großbauerstraße",
+    "Longitude": 16.4263761,
+    "Latitude": 48.2809611
+  },
+  {
+    "StopIDs": [4822, 4825],
+    "DIVA": 60200818,
+    "StopText": "Lusthaus",
+    "Longitude": 16.4400219,
+    "Latitude": 48.1908638
+  },
+  {
+    "StopIDs": [4823, 4824],
+    "DIVA": 60200453,
+    "StopText": "Freudenau, Rennplatz",
+    "Longitude": 16.4399227,
+    "Latitude": 48.1909011
+  },
+  {
+    "StopIDs": [4840, 4841],
+    "DIVA": 60201812,
+    "StopText": "Laimgrubengasse",
+    "Longitude": 16.3591911,
+    "Latitude": 48.1992586
+  },
+  {
+    "StopIDs": [4900, 4917],
+    "DIVA": 60200289,
+    "StopText": "Erdberg",
+    "Longitude": 16.414223,
+    "Latitude": 48.191428
+  },
+  {
+    "StopIDs": [4901, 4916],
+    "DIVA": 60201199,
+    "StopText": "Schlachthausgasse",
+    "Longitude": 16.406723,
+    "Latitude": 48.194495
+  },
+  {
+    "StopIDs": [4902, 4915],
+    "DIVA": 60200653,
+    "StopText": "Kardinal-Nagl-Platz",
+    "Longitude": 16.4005869,
+    "Latitude": 48.197213
+  },
+  {
+    "StopIDs": [4903, 4914],
+    "DIVA": 60201104,
+    "StopText": "Rochusgasse",
+    "Longitude": 16.39164,
+    "Latitude": 48.2024519
+  },
+  {
+    "StopIDs": [4905, 4912],
+    "DIVA": 60200245,
+    "StopText": "Stubentor",
+    "Longitude": 16.3792788,
+    "Latitude": 48.20699
+  },
+  {
+    "StopIDs": [4907, 4910],
+    "DIVA": 60200506,
+    "StopText": "Herrengasse",
+    "Longitude": 16.365113,
+    "Latitude": 48.2093669
+  },
+  {
+    "StopIDs": [4918, 4923],
+    "DIVA": 60200056,
+    "StopText": "Neubaugasse",
+    "Longitude": 16.3524638,
+    "Latitude": 48.199243
+  },
+  {
+    "StopIDs": [4919, 4922],
+    "DIVA": 60201530,
+    "StopText": "Zieglergasse",
+    "Longitude": 16.3462299,
+    "Latitude": 48.197195
+  },
+  {
+    "StopIDs": [4924, 4927],
+    "DIVA": 60201200,
+    "StopText": "Schweglerstraße",
+    "Longitude": 16.328623,
+    "Latitude": 48.1977461
+  },
+  {
+    "StopIDs": [4925, 4926],
+    "DIVA": 60200606,
+    "StopText": "Johnstraße",
+    "Longitude": 16.3200711,
+    "Latitude": 48.1976861
+  },
+  {
+    "StopIDs": [4928, 4933],
+    "DIVA": 60201035,
+    "StopText": "Hütteldorfer Straße",
+    "Longitude": 16.3114561,
+    "Latitude": 48.199818
+  },
+  {
+    "StopIDs": [4929, 4932],
+    "DIVA": 60201317,
+    "StopText": "Kendlerstraße",
+    "Longitude": 16.3092188,
+    "Latitude": 48.2045661
+  },
+  {
+    "StopIDs": [4930, 4931],
+    "DIVA": 60200981,
+    "StopText": "Ottakring",
+    "Longitude": 16.3115911,
+    "Latitude": 48.2115519
+  },
+  {
+    "StopIDs": [4934, 4941],
+    "DIVA": 60201749,
+    "StopText": "Gasometer",
+    "Longitude": 16.4171788,
+    "Latitude": 48.184883
+  },
+  {
+    "StopIDs": [4935, 4940],
+    "DIVA": 60200399,
+    "StopText": "Zippererstraße",
+    "Longitude": 16.4118611,
+    "Latitude": 48.180283
+  },
+  {
+    "StopIDs": [4936, 4939],
+    "DIVA": 60200425,
+    "StopText": "Enkplatz",
+    "Longitude": 16.4147088,
+    "Latitude": 48.17467
+  },
+  {
+    "StopIDs": [4937, 4938],
+    "DIVA": 60201260,
+    "StopText": "Simmering",
+    "Longitude": 16.419443,
+    "Latitude": 48.17047
+  }
+]
