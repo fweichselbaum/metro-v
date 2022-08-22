@@ -1,0 +1,4615 @@
+// 20220822212700
+// https://www.wienerlinien.at/ogd_realtime/monitor?stopId=4401&stopId=4403&stopId=4405&stopId=4407&stopId=4409&stopId=4411&stopId=4413&stopId=4437&stopId=4415&stopId=4417&stopId=4419&stopId=4421&stopId=4423&stopId=4425&stopId=4427&stopId=4429&stopId=4431&stopId=4433&stopId=4439&stopId=4435
+
+{
+  "data": {
+    "monitors": [
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3188761,
+              48.1860261
+            ]
+          },
+          "properties": {
+            "name": "60201211",
+            "title": "Schönbrunn",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4411
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:35:54.000+0200",
+                    "timeReal": "2022-08-22T21:35:54.000+0200",
+                    "countdown": 9
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:42:30.000+0200",
+                    "countdown": 15
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:50:00.000+0200",
+                    "countdown": 23
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:57:30.000+0200",
+                    "countdown": 30
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:05:00.000+0200",
+                    "countdown": 38
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:12:30.000+0200",
+                    "countdown": 45
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:20:00.000+0200",
+                    "countdown": 53
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:27:30.000+0200",
+                    "countdown": 60
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:35:00.000+0200",
+                    "countdown": 68
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3720211,
+              48.2166338
+            ]
+          },
+          "properties": {
+            "name": "60201182",
+            "title": "Schottenring",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4429
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:27:54.000+0200",
+                    "timeReal": "2022-08-22T21:27:54.000+0200",
+                    "countdown": 1
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:35:00.000+0200",
+                    "countdown": 8
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:42:30.000+0200",
+                    "countdown": 15
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:50:00.000+0200",
+                    "countdown": 23
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:57:30.000+0200",
+                    "countdown": 30
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:05:00.000+0200",
+                    "countdown": 38
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:12:30.000+0200",
+                    "countdown": 45
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:20:00.000+0200",
+                    "countdown": 53
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:27:30.000+0200",
+                    "countdown": 60
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:35:00.000+0200",
+                    "countdown": 68
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3278500,
+              48.1836130
+            ]
+          },
+          "properties": {
+            "name": "60200863",
+            "title": "Meidling, Hauptstraße",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4413
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:28:54.000+0200",
+                    "timeReal": "2022-08-22T21:28:54.000+0200",
+                    "countdown": 2
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:36:54.000+0200",
+                    "timeReal": "2022-08-22T21:36:54.000+0200",
+                    "countdown": 10
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:43:30.000+0200",
+                    "countdown": 16
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:51:00.000+0200",
+                    "countdown": 24
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:58:30.000+0200",
+                    "countdown": 31
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:06:00.000+0200",
+                    "countdown": 39
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:13:30.000+0200",
+                    "countdown": 46
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:21:00.000+0200",
+                    "countdown": 54
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:28:30.000+0200",
+                    "countdown": 61
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:36:00.000+0200",
+                    "countdown": 69
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2760719,
+              48.1922130
+            ]
+          },
+          "properties": {
+            "name": "60200956",
+            "title": "Ober St. Veit",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4403
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:28:54.000+0200",
+                    "timeReal": "2022-08-22T21:28:54.000+0200",
+                    "countdown": 2
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:36:54.000+0200",
+                    "timeReal": "2022-08-22T21:36:54.000+0200",
+                    "countdown": 10
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:44:00.000+0200",
+                    "countdown": 17
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:51:30.000+0200",
+                    "countdown": 24
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:59:00.000+0200",
+                    "countdown": 32
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:06:30.000+0200",
+                    "countdown": 39
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:14:00.000+0200",
+                    "countdown": 47
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:21:30.000+0200",
+                    "countdown": 54
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:29:00.000+0200",
+                    "countdown": 62
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:36:30.000+0200",
+                    "countdown": 69
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3696311,
+              48.2003450
+            ]
+          },
+          "properties": {
+            "name": "60200657",
+            "title": "Karlsplatz",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4421
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:30:54.000+0200",
+                    "timeReal": "2022-08-22T21:30:54.000+0200",
+                    "countdown": 4
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:36:30.000+0200",
+                    "countdown": 9
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:44:00.000+0200",
+                    "countdown": 17
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:51:30.000+0200",
+                    "countdown": 24
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:59:00.000+0200",
+                    "countdown": 32
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:06:30.000+0200",
+                    "countdown": 39
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:14:00.000+0200",
+                    "countdown": 47
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:21:30.000+0200",
+                    "countdown": 54
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:29:00.000+0200",
+                    "countdown": 62
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:36:30.000+0200",
+                    "countdown": 69
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3676188,
+              48.2223561
+            ]
+          },
+          "properties": {
+            "name": "60201124",
+            "title": "Roßauer Lände",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4431
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:28:54.000+0200",
+                    "timeReal": "2022-08-22T21:28:54.000+0200",
+                    "countdown": 2
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:36:30.000+0200",
+                    "countdown": 9
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:44:00.000+0200",
+                    "countdown": 17
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:51:30.000+0200",
+                    "countdown": 24
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:59:00.000+0200",
+                    "countdown": 32
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:06:30.000+0200",
+                    "countdown": 39
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:14:00.000+0200",
+                    "countdown": 47
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:21:30.000+0200",
+                    "countdown": 54
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:29:00.000+0200",
+                    "countdown": 62
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:36:30.000+0200",
+                    "countdown": 69
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3350280,
+              48.1848288
+            ]
+          },
+          "properties": {
+            "name": "60200820",
+            "title": "Längenfeldgasse",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4437
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:29:54.000+0200",
+                    "timeReal": "2022-08-22T21:29:54.000+0200",
+                    "countdown": 3
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:37:54.000+0200",
+                    "timeReal": "2022-08-22T21:37:54.000+0200",
+                    "countdown": 11
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:44:30.000+0200",
+                    "countdown": 17
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:52:00.000+0200",
+                    "countdown": 25
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:59:30.000+0200",
+                    "countdown": 32
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:07:00.000+0200",
+                    "countdown": 40
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:14:30.000+0200",
+                    "countdown": 47
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:22:00.000+0200",
+                    "countdown": 55
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:29:30.000+0200",
+                    "countdown": 62
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:37:00.000+0200",
+                    "countdown": 70
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3643580,
+              48.2275688
+            ]
+          },
+          "properties": {
+            "name": "60200357",
+            "title": "Friedensbrücke",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4433
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:30:54.000+0200",
+                    "timeReal": "2022-08-22T21:30:54.000+0200",
+                    "countdown": 4
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:37:30.000+0200",
+                    "countdown": 10
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:45:00.000+0200",
+                    "countdown": 18
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:52:30.000+0200",
+                    "countdown": 25
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:00:00.000+0200",
+                    "countdown": 33
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:07:30.000+0200",
+                    "countdown": 40
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:15:00.000+0200",
+                    "countdown": 48
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:22:30.000+0200",
+                    "countdown": 55
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:30:00.000+0200",
+                    "countdown": 63
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2862319,
+              48.1910569
+            ]
+          },
+          "properties": {
+            "name": "60201404",
+            "title": "Unter St. Veit",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4405
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:29:54.000+0200",
+                    "timeReal": "2022-08-22T21:29:54.000+0200",
+                    "countdown": 3
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:38:54.000+0200",
+                    "timeReal": "2022-08-22T21:38:54.000+0200",
+                    "countdown": 12
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:45:30.000+0200",
+                    "countdown": 18
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:53:00.000+0200",
+                    "countdown": 26
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:00:30.000+0200",
+                    "countdown": 33
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:08:00.000+0200",
+                    "countdown": 41
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:15:30.000+0200",
+                    "countdown": 48
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:23:00.000+0200",
+                    "countdown": 56
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:30:30.000+0200",
+                    "countdown": 63
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3797461,
+              48.2028050
+            ]
+          },
+          "properties": {
+            "name": "60201305",
+            "title": "Stadtpark",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4423
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:31:54.000+0200",
+                    "timeReal": "2022-08-22T21:31:54.000+0200",
+                    "countdown": 5
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:38:00.000+0200",
+                    "countdown": 11
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:45:30.000+0200",
+                    "countdown": 18
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:53:00.000+0200",
+                    "countdown": 26
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:00:30.000+0200",
+                    "countdown": 33
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:08:00.000+0200",
+                    "countdown": 41
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:15:30.000+0200",
+                    "countdown": 48
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:23:00.000+0200",
+                    "countdown": 56
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:30:30.000+0200",
+                    "countdown": 63
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3430588,
+              48.1884638
+            ]
+          },
+          "properties": {
+            "name": "60200827",
+            "title": "Margaretengürtel",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4415
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:31:54.000+0200",
+                    "timeReal": "2022-08-22T21:31:54.000+0200",
+                    "countdown": 5
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:39:54.000+0200",
+                    "timeReal": "2022-08-22T21:39:54.000+0200",
+                    "countdown": 13
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:46:30.000+0200",
+                    "countdown": 19
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:54:00.000+0200",
+                    "countdown": 27
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:01:30.000+0200",
+                    "countdown": 34
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:09:00.000+0200",
+                    "countdown": 42
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:16:30.000+0200",
+                    "countdown": 49
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:24:00.000+0200",
+                    "countdown": 57
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:31:30.000+0200",
+                    "countdown": 64
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3586000,
+              48.2348630
+            ]
+          },
+          "properties": {
+            "name": "60201062",
+            "title": "Spittelau",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4439
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:31:54.000+0200",
+                    "timeReal": "2022-08-22T21:31:54.000+0200",
+                    "countdown": 5
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:39:00.000+0200",
+                    "countdown": 12
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:46:30.000+0200",
+                    "countdown": 19
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:54:00.000+0200",
+                    "countdown": 27
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:01:30.000+0200",
+                    "countdown": 34
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:09:00.000+0200",
+                    "countdown": 42
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:16:30.000+0200",
+                    "countdown": 49
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:24:00.000+0200",
+                    "countdown": 57
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:31:30.000+0200",
+                    "countdown": 64
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2958169,
+              48.1893500
+            ]
+          },
+          "properties": {
+            "name": "60200161",
+            "title": "Braunschweiggasse",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4407
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:31:54.000+0200",
+                    "timeReal": "2022-08-22T21:31:54.000+0200",
+                    "countdown": 5
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:39:54.000+0200",
+                    "timeReal": "2022-08-22T21:39:54.000+0200",
+                    "countdown": 13
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:47:00.000+0200",
+                    "countdown": 20
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:54:30.000+0200",
+                    "countdown": 27
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:02:00.000+0200",
+                    "countdown": 35
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:09:30.000+0200",
+                    "countdown": 42
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:17:00.000+0200",
+                    "countdown": 50
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:24:30.000+0200",
+                    "countdown": 57
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:32:00.000+0200",
+                    "countdown": 65
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3849019,
+              48.2068888
+            ]
+          },
+          "properties": {
+            "name": "60200743",
+            "title": "Landstraße",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4425
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:33:54.000+0200",
+                    "timeReal": "2022-08-22T21:33:54.000+0200",
+                    "countdown": 7
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:39:30.000+0200",
+                    "countdown": 12
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:47:00.000+0200",
+                    "countdown": 20
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:54:30.000+0200",
+                    "countdown": 27
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:02:00.000+0200",
+                    "countdown": 35
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:09:30.000+0200",
+                    "countdown": 42
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:17:00.000+0200",
+                    "countdown": 50
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:24:30.000+0200",
+                    "countdown": 57
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:32:00.000+0200",
+                    "countdown": 65
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3048088,
+              48.1875180
+            ]
+          },
+          "properties": {
+            "name": "60200520",
+            "title": "Hietzing",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4409
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:32:54.000+0200",
+                    "timeReal": "2022-08-22T21:32:54.000+0200",
+                    "countdown": 6
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:40:54.000+0200",
+                    "timeReal": "2022-08-22T21:40:54.000+0200",
+                    "countdown": 14
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:48:00.000+0200",
+                    "countdown": 21
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:55:30.000+0200",
+                    "countdown": 28
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:03:00.000+0200",
+                    "countdown": 36
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:10:30.000+0200",
+                    "countdown": 43
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:18:00.000+0200",
+                    "countdown": 51
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:25:30.000+0200",
+                    "countdown": 58
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:33:00.000+0200",
+                    "countdown": 66
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3543419,
+              48.1921469
+            ]
+          },
+          "properties": {
+            "name": "60201018",
+            "title": "Pilgramgasse",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4417
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:33:54.000+0200",
+                    "timeReal": "2022-08-22T21:33:54.000+0200",
+                    "countdown": 7
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:41:00.000+0200",
+                    "countdown": 14
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:48:30.000+0200",
+                    "countdown": 21
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:56:00.000+0200",
+                    "countdown": 29
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:03:30.000+0200",
+                    "countdown": 36
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:11:00.000+0200",
+                    "countdown": 44
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:18:30.000+0200",
+                    "countdown": 51
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:26:00.000+0200",
+                    "countdown": 59
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:33:30.000+0200",
+                    "countdown": 66
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3781380,
+              48.2118750
+            ]
+          },
+          "properties": {
+            "name": "60201198",
+            "title": "Schwedenplatz",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4427
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:26:54.000+0200",
+                    "timeReal": "2022-08-22T21:26:54.000+0200",
+                    "countdown": 0
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:35:54.000+0200",
+                    "timeReal": "2022-08-22T21:35:54.000+0200",
+                    "countdown": 9
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:41:00.000+0200",
+                    "countdown": 14
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:48:30.000+0200",
+                    "countdown": 21
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:56:00.000+0200",
+                    "countdown": 29
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:03:30.000+0200",
+                    "countdown": 36
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:11:00.000+0200",
+                    "countdown": 44
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:18:30.000+0200",
+                    "countdown": 51
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:26:00.000+0200",
+                    "countdown": 59
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:33:30.000+0200",
+                    "countdown": 66
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.2607188,
+              48.1969438
+            ]
+          },
+          "properties": {
+            "name": "60200560",
+            "title": "Hütteldorf",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4401
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:34:54.000+0200",
+                    "timeReal": "2022-08-22T21:34:54.000+0200",
+                    "countdown": 8
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:42:54.000+0200",
+                    "timeReal": "2022-08-22T21:42:54.000+0200",
+                    "countdown": 16
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:49:30.000+0200",
+                    "countdown": 22
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:57:00.000+0200",
+                    "countdown": 30
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:04:30.000+0200",
+                    "countdown": 37
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:12:00.000+0200",
+                    "countdown": 45
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:19:30.000+0200",
+                    "countdown": 52
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:27:00.000+0200",
+                    "countdown": 60
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:34:30.000+0200",
+                    "countdown": 67
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.3580969,
+              48.1966080
+            ]
+          },
+          "properties": {
+            "name": "60200670",
+            "title": "Kettenbrückengasse",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4419
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "HEILIGENSTADT    ",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:28:54.000+0200",
+                    "timeReal": "2022-08-22T21:28:54.000+0200",
+                    "countdown": 2
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:35:54.000+0200",
+                    "timeReal": "2022-08-22T21:35:54.000+0200",
+                    "countdown": 9
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "HEILIGENSTADT    ",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "foldingRamp": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:42:00.000+0200",
+                    "countdown": 15
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:49:30.000+0200",
+                    "countdown": 22
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T21:57:00.000+0200",
+                    "countdown": 30
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:04:30.000+0200",
+                    "countdown": 37
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:12:00.000+0200",
+                    "countdown": 45
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:19:30.000+0200",
+                    "countdown": 52
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:27:00.000+0200",
+                    "countdown": 60
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                },
+                {
+                  "departureTime": {
+                    "timePlanned": "2022-08-22T22:34:30.000+0200",
+                    "countdown": 67
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "Heiligenstadt",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": true,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      },
+      {
+        "locationStop": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0,
+              0
+            ]
+          },
+          "properties": {
+            "name": "60200491",
+            "title": "Heiligenstadt",
+            "municipality": "Wien",
+            "municipalityId": 90001,
+            "type": "stop",
+            "coordName": "WGS84",
+            "gate": "1",
+            "attributes": {
+              "rbl": 4435
+            }
+          }
+        },
+        "lines": [
+          {
+            "name": "U4",
+            "towards": "NICHT EINSTEIGEN ! DO NOT BOARD !",
+            "direction": "H",
+            "platform": "1",
+            "richtungsId": "1",
+            "barrierFree": true,
+            "realtimeSupported": true,
+            "trafficjam": false,
+            "departures": {
+              "departure": [
+                {
+                  "departureTime": {
+                    
+                  },
+                  "vehicle": {
+                    "name": "U4",
+                    "towards": "NICHT EINSTEIGEN ! DO NOT BOARD !",
+                    "direction": "H",
+                    "richtungsId": "1",
+                    "barrierFree": false,
+                    "realtimeSupported": true,
+                    "trafficjam": false,
+                    "type": "ptMetro",
+                    "attributes": {
+                      
+                    },
+                    "linienId": 304
+                  }
+                }
+              ]
+            },
+            "type": "ptMetro",
+            "lineId": 304
+          }
+        ],
+        "attributes": {
+          
+        }
+      }
+    ]
+  },
+  "message": {
+    "value": "OK",
+    "messageCode": 1,
+    "serverTime": "2022-08-22T21:27:00.000+0200"
+  }
+}

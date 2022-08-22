@@ -9,4 +9,4 @@ The metro stations get displayed on an interactive map, with trains moving betwe
   - Some React experience
   - Easier to learn than Flutter
 - Expo
-  - Developing environment and bundler
+  - Development environment and bundler

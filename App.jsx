@@ -34,16 +34,17 @@ export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [stopsVisible, setStopsVisible] = useState(true);
   const [selectedLines, setSelectedLines] = useState(new Array(metroLines.length).fill(false));
+  const [liveData, setLiveData] = useState({});
 
   useEffect(() => {
     //console.log(selectedLines);
   }, [selectedLines]);
 
-  /*useEffect(() => {
-    fetch('https://reqres.in/api/users/2')
+  useEffect(() => {
+    /*fetch('https://www.wienerlinien.at/ogd_realtime/monitor?stopId=4401')
       .then(response => response.json())
-      .then(data => console.log(data));
-  }, []);*/
+      .then(data => {console.log(data); setLiveData(data)});*/
+  }, []);
 
   let [fontsLoaded] = useFonts({
     BebasNeue_400Regular,
