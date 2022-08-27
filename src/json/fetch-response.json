@@ -1,6 +1,3 @@
-// 20220822212700
-// https://www.wienerlinien.at/ogd_realtime/monitor?stopId=4401&stopId=4403&stopId=4405&stopId=4407&stopId=4409&stopId=4411&stopId=4413&stopId=4437&stopId=4415&stopId=4417&stopId=4419&stopId=4421&stopId=4423&stopId=4425&stopId=4427&stopId=4429&stopId=4431&stopId=4433&stopId=4439&stopId=4435
-
 {
   "data": {
     "monitors": [
@@ -252,6 +249,22 @@
           
         }
       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
       {
         "locationStop": {
           "type": "Feature",
